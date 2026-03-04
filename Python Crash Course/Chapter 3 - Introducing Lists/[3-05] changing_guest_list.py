@@ -1,0 +1,10 @@
+dinner_list = ['george washington', 'benjamin franklin', 'abraham lincoln']
+print(f"Hello, {dinner_list[0].title()}, I would like to invite you to dinner.")
+print(f"Hello, {dinner_list[1].title()}, I would like to invite you to dinner.")
+print(f"Hello, {dinner_list[2].title()}, I would like to invite you to dinner.")
+print(f"It turns out that {dinner_list[0].title()} could not make it.")
+dinner_list.remove('george washington')
+dinner_list.append('alexander hamilton')
+print(f"Hello, {dinner_list[0].title()}, I am resending invitations because George Washington could not make it.")
+print(f"Hello, {dinner_list[1].title()}, I am resending invitations because George Washington could not make it.")
+print(f"Hello, {dinner_list[2].title()}, I am resending invitations because George Washington could not make it.")
