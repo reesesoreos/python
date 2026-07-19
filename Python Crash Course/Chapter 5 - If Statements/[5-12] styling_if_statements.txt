@@ -1,0 +1,5 @@
+ Review the programs you wrote in this chapter, and
+make sure you styled your conditional tests appropriately.
+
+^ This is the exercise given. I went over previous conditional tests involving 
+numbers, and I made them like (if age < 4) rather than if (age<4).
