@@ -1,0 +1,5 @@
+This exercise asks for us to read through the website and look for something interesting.
+
+https://pymotw.com/3/
+
+I looked through the table of contents, and read through the "random" module.
