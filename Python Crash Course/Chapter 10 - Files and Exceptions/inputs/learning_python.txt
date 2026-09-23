@@ -1,0 +1,3 @@
+In Python you can save values as variables, and work with them in various ways. 
+In Python you can loop through large amounts of information and apply certain conditions.
+In Python you can save functions that you have defined so you can call on them anytime to fulfill a certain purpose.
